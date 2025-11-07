@@ -21,11 +21,10 @@
   **advanced backend optimization**, and **on-chain integration with off-chain services (e.g., Telegram Bots + Smart Contracts)**.
 
 - 🧩 **Recent highlights**  
-  - 🚀 Designed a **TRON-based USDT ↔ TRX router** with custom Solidity smart contracts  
-  - 🤖 Built a **Telegram Bot system** for wallet automation and blockchain event monitoring  
-  - 🧠 Trained a **YOLOv8 mouth-detection model**, exported to **TensorFlow.js** for real-time browser inference  
+  - 🚀 Designed a **TRX router** with custom Solidity smart contracts  
+  - 🧠 Learned a **YOLOv8 detection model**, exported to **TensorFlow.js** for real-time browser inference  
   - 🏥 Developed a **hospital ward management system** using MyBatis-Plus optimistic locking & Dockerized deployment  
-  - ☁️ Experimented with **Kubernetes orchestration**, **TRON energy leasing**, and **multi-sig wallet architecture**
+  - ☁️ Experimented with **Kubernetes orchestration**, **Blockchain energy leasing****
 
 - 👯 I'm looking to collaborate on  
   **open-source blockchain toolkits**, **AI-powered developer utilities**, and **RAG knowledge systems**.
