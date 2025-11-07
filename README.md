@@ -1,7 +1,11 @@
 # Hi 👋, I'm jerryyeungisjingyang
 
 ### Programmer | Web3 | Full-stack Engineer | Backend Engineer
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/jerryyeungisjingyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jerryyeungisjingyang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Jing Yang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jing Yang" height="30" width="40" /></a>
+</p>
 <p align="left">
   <img src="./Avatar2.jpg" alt="jerryyeungisjingyang" width="120" height="120" />
 </p>
@@ -41,11 +45,7 @@
 
 - 📝 I regularly write articles on **[https://www.linkedin.com/in/jing-yang-77b4a3267](https://www.linkedin.com/in/jing-yang-77b4a3267)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/jerryyeungisjingyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jerryyeungisjingyang" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Jing Yang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jing Yang" height="30" width="40" /></a>
-</p>
+
 
 
 
