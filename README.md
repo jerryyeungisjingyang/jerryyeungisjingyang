@@ -2,7 +2,7 @@
 
 ### Programmer | Web3 | Full-stack Engineer | Backend Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryyeungisjingyang&label=Profile views&color=0e75b6&style=flat" alt="jerryyeungisjingyang" /> </p>
+<p align="left"> <img src="./Avatar2.jpg" alt="jerryyeungisjingyang" /> </p>
 
 - 🔭 I'm currently working on **a full-stack project**
 
