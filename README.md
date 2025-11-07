@@ -2,7 +2,9 @@
 
 ### Programmer | Web3 | Full-stack Engineer | Backend Engineer
 
-<p align="left"> <img src="./Avatar2.jpg" alt="jerryyeungisjingyang" /> </p>
+<p align="left">
+  <img src="./Avatar2.jpg" alt="jerryyeungisjingyang" width="200" height="200" />
+</p>
 
 - 🔭 I'm currently working on **a full-stack project**
 
