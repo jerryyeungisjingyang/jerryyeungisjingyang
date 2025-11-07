@@ -6,19 +6,36 @@
   <img src="./Avatar2.jpg" alt="jerryyeungisjingyang" width="120" height="120" />
 </p>
 
-- 🔭 I'm currently working on **a full-stack project**
+- 🔭 I'm currently building **a cross-domain full-stack ecosystem**, integrating  
+  🧱 **Blockchain (TRON)** • 🤖 **AI / LLM / RAG** • 🧩 **Backend (Spring Boot + MyBatis + MySQL)**  
+  and 🧠 **Computer Vision (YOLO + TensorFlow.js)** into real-world, production-ready systems.
 
-- 🌱 I'm currently learning **TypeScripe | LLM | RAG**
+- 🌱 I'm diving deep into  
+  **TypeScript**, **LLM application design**, **RAG pipelines**,  
+  **advanced backend optimization**, and **on-chain integration with off-chain services (e.g., Telegram Bots + Smart Contracts)**.
 
-- 👯 I'm looking to collaborate on **open source projects**
+- 🧩 **Recent highlights**  
+  - 🚀 Designed a **TRON-based USDT ↔ TRX router** with custom Solidity smart contracts  
+  - 🤖 Built a **Telegram Bot system** for wallet automation and blockchain event monitoring  
+  - 🧠 Trained a **YOLOv8 mouth-detection model**, exported to **TensorFlow.js** for real-time browser inference  
+  - 🏥 Developed a **hospital ward management system** using MyBatis-Plus optimistic locking & Dockerized deployment  
+  - ☁️ Experimented with **Kubernetes orchestration**, **TRON energy leasing**, and **multi-sig wallet architecture**
 
-- 🤝 I'm looking for help with **learning system design**
+- 👯 I'm looking to collaborate on  
+  **open-source blockchain toolkits**, **AI-powered developer utilities**, and **RAG knowledge systems**.
 
-- 💬 Ask me about **React, Node.js, Java, Full-stack tech stacks**
+- 🤝 I'm looking for help with  
+  **scalable system design**, **distributed infrastructure**, and **cross-chain interoperability**.
 
-- 📫 How to reach me **yj18350201782@gmail.com**
+- 💬 Ask me about  
+  **React**, **Node.js**, **Java**, **Solidity (TRON / EVM)**, **AI-driven full-stack integration**,  
+  or how to make multiple ecosystems (Blockchain + AI + Web) truly work together.
 
-- ⚡ Fun fact **Haha**
+- 📫 How to reach me  
+  **yj18350201782@gmail.com**
+
+- ⚡ Fun fact  
+  I love turning complex, multi-stack ideas into **clean, minimal, and production-ready systems**.
 
 - 📝 I regularly write articles on **[https://www.linkedin.com/in/jing-yang-77b4a3267](https://www.linkedin.com/in/jing-yang-77b4a3267)**
 
