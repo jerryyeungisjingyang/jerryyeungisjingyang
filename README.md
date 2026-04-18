@@ -1,50 +1,82 @@
-# Hi 👋, I'm jerryyeungisjingyang
+<div align="center">
 
-### Programmer | Web3 | Full-stack Engineer | Backend Engineer
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/jerryyeungisjingyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jerryyeungisjingyang" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jing-yang-77b4a3267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jing Yang" height="30" width="40" /></a>
+# Hi there 👋 I'm Jerry Yeung
+
+### Backend Engineer | Full-stack Developer | Web3 Builder
+
+<p>
+  <a href="https://github.com/jerryyeungisjingyang" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/jing-yang-77b4a3267" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
+
+<img src="./Avatar2.jpg" alt="Jerry Yeung" width="120" height="120" />
+
+</div>
+
+---
+
+## About Me
+
+I build practical, production-oriented systems across **backend engineering**, **full-stack development**, **Web3**, and **AI applications**.
+
+Right now, I am especially interested in combining:
+- **Blockchain systems** such as TRON and smart contracts
+- **AI workflows** including LLM applications and RAG pipelines
+- **Backend services** with Java, Spring Boot, MyBatis, MySQL, Redis, and messaging systems
+- **Computer vision** projects with YOLO and TensorFlow.js
+
+I enjoy turning complex multi-stack ideas into clean, usable products.
+
+## What I'm Working On
+
+- Building cross-domain systems that connect **Web**, **AI**, and **Blockchain**
+- Exploring **LLM application design**, **RAG architecture**, and **backend optimization**
+- Improving **on-chain and off-chain integration**, including bots, APIs, and smart contracts
+- Learning more about **distributed systems**, **system design**, and scalable infrastructure
+
+## Selected Highlights
+
+- Designed a **TRX router** with custom Solidity smart contracts
+- Built a **hospital ward management system** with MyBatis-Plus optimistic locking and Dockerized deployment
+- Trained a **YOLO-based detection model** and exported it to **TensorFlow.js** for browser-side inference
+- Explored **Kubernetes orchestration** and infrastructure practices for modern applications
+
+## Tech Stack
+
+### Backend
+Java, Go, Spring Boot, MyBatis, MySQL, Redis, RabbitMQ, Kafka, PostgreSQL, SQLite
+
+### Frontend
+React, Next.js, Vue, TypeScript, JavaScript, HTML, CSS, Bootstrap
+
+### AI / Data / CV
+Python, PyTorch, TensorFlow, OpenCV, Jupyter, NumPy, Anaconda
+
+### DevOps / Cloud / Tools
+Docker, Git, Jenkins, Linux, Nginx, AWS, GCP, Figma, Postman
+
 <p align="left">
-  <img src="./Avatar2.jpg" alt="jerryyeungisjingyang" width="120" height="120" />
+  <img src="https://skillicons.dev/icons?i=go,java,spring,py,ts,js,react,nextjs,vue,nodejs,mysql,postgres,redis,mongodb,docker,kafka,rabbitmq,git,linux,nginx,aws,gcp,postman,tensorflow,pytorch,opencv&perline=9" alt="skills" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hadoop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a></p>
 
-- 🔭 I'm currently building **a cross-domain full-stack ecosystem**, integrating  
-  🧱 **Blockchain (TRON)** • 🤖 **AI / LLM / RAG** • 🧩 **Backend (Spring Boot + MyBatis + MySQL)**  
-  and 🧠 **Computer Vision (YOLO + TensorFlow.js)** into real-world, production-ready systems.
+## Collaboration
 
-- 🌱 I'm diving deep into  
-  **TypeScript**, **LLM application design**, **RAG pipelines**,  
-  **advanced backend optimization**, and **on-chain integration with off-chain services (e.g., Telegram Bots + Smart Contracts)**.
+I’m open to collaborating on:
+- Open-source developer tools
+- AI-powered applications
+- RAG knowledge systems
+- Web3 infrastructure and practical blockchain products
 
-- 🧩 **Recent highlights**  
-  - 🚀 Designed a **TRX router** with custom Solidity smart contracts  
-  - 🧠 Learned a **YOLOv8 detection model**, exported to **TensorFlow.js** for real-time browser inference  
-  - 🏥 Developed a **hospital ward management system** using MyBatis-Plus optimistic locking & Dockerized deployment  
-  - ☁️ Experimented with **Kubernetes orchestration**, **Blockchain energy leasing****
+## Contact
 
-- 👯 I'm looking to collaborate on  
-  **open-source blockchain toolkits**, **AI-powered developer utilities**, and **RAG knowledge systems**.
+- GitHub: [jerryyeungisjingyang](https://github.com/jerryyeungisjingyang)
+- LinkedIn: [Jing Yang](https://www.linkedin.com/in/jing-yang-77b4a3267)
+- Email: **yj18350201782@gmail.com**
 
-- 🤝 I'm looking for help with  
-  **scalable system design**, **distributed infrastructure**, and **cross-chain interoperability**.
+---
 
-- 💬 Ask me about  
-  **React**, **Node.js**, **Java**, **Solidity (TRON / EVM)**, **AI-driven full-stack integration**,  
-  or how to make multiple ecosystems (Blockchain + AI + Web) truly work together.
-
-- 📫 How to reach me  
-  **yj18350201782@gmail.com**
-
-- ⚡ Fun fact  
-  I love turning complex, multi-stack ideas into **clean, minimal, and production-ready systems**.
-
-- 📝 I regularly write articles on **[https://www.linkedin.com/in/jing-yang-77b4a3267](https://www.linkedin.com/in/jing-yang-77b4a3267)**
-
-
-
-
-
+> Clean architecture, practical systems, and products that actually ship.
