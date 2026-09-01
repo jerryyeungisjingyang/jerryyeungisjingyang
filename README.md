@@ -4,15 +4,6 @@
 
 ### Backend Engineer | Full-stack Developer | Web3 Builder
 
-<p>
-  <a href="https://github.com/jerryyeungisjingyang" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/jing-yang-77b4a3267" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
 <img src="./avatarPig.jpeg" alt="Jerry Yeung" width="120" height="120" />
 
 </div>
