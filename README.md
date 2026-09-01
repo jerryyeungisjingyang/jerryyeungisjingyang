@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Jerry Yeung
+# Jerry Yang
 
 ### Backend Engineer | Full-stack Developer | Web3 Builder
 
