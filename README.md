@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="./Avatar2.jpg" alt="Jerry Yeung" width="120" height="120" />
+<img src="./avatarPig.jpeg" alt="Jerry Yeung" width="120" height="120" />
 
 </div>
 
